@@ -15,3 +15,13 @@
 * Power protection board https://github.com/janesaar/power_protection_board
 * Connection strip https://github.com/janesaar/basketball_robot_connection_strip_2018
 * LiPo alarm https://github.com/janesaar/attiny_lipo_alarm
+* Power path control with battery on/off switch https://github.com/janesaar/power_path_control_switchable
+* Thrower boards (ball sensor side boards and connection board) https://github.com/janesaar/bbr18_thrower_boards
+  * Ball sensors (2x IS471F) board
+  * Ball IR LED board
+  * Thrower connection board
+* Battery boards https://github.com/ReikoR/bbr18_battery_boards
+  * PC battery board with alarm and power path control
+  * PC battery connection board
+  * Motor batery board with alarm and power protection
+  * Motor battery connection board
